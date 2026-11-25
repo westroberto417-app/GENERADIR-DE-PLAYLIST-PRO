@@ -1,0 +1,8 @@
+{
+  "name": "SMART PLAYLIST AI STUDIO",
+  "description": "PWA profesional de análisis DSP de audio, generación inteligente de playlists y exportación compatible con RadioBOSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
